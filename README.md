@@ -16,9 +16,11 @@ Performed data cleaning and wrangling on both datasets. In this step, I decided 
 
 After cleaning, I merged both datasets. On the merged, clean dataset, I used MinMaxScaler and OneHotEncoder to build a simple linear regression model to predict biking distances.
 I also attempted to predict the day of the week when bike trips would take place, by using a multinomial logistic regression, however with just a 25% accuracy, which ended up not being useful.
-Further areas to study would be:
-Building different models for different variables
-Predicting bike flow per dock for staffing purposes
+
+#### Further areas to study would be:
+- Building different models for different variables
+- Predicting bike flow per dock for staffing purposes
+  
 In both cases, I would need more data.
 
 ### Conclusions drawn
