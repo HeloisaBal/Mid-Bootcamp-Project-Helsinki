@@ -3,7 +3,7 @@
 This project is a descriptive analysis of the Helsinki City Bikes system in Finland.
 
 ### Source data
-https://www.kaggle.com/datasets/geometrein/helsinki-city-bikes - The dataset contains more than 10 million trips made by citizens of Helsinki between 2016-2020.
+https://www.kaggle.com/datasets/geometrein/helsinki-city-bikes - More than 10 million trips made by citizens of Helsinki between 2016-2020.
 https://en.ilmatieteenlaitos.fi/open-data  - Meteorological data from 2016-2020.
 
 ### Documentation
