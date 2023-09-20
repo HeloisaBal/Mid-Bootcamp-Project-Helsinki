@@ -21,8 +21,7 @@ Building different models for different variables
 Predicting bike flow per dock for staffing purposes
 In both cases, I would need more data.
 
-### 
-Conclusions drawn
+### Conclusions drawn
 - In Helsinki, the city bikes are mostly used for commuting purposes.
 - The most popular biking hours are during the evening.
 - The biking speed is considerably lower during weekends than during the weekdays.
