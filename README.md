@@ -7,8 +7,8 @@ https://www.kaggle.com/datasets/geometrein/helsinki-city-bikes - > 10 million tr
 https://en.ilmatieteenlaitos.fi/open-data  - Meteorological data from 2016-2020.
 
 ### Documentation
-'Notebook - Helsinki City Bikes.ipynb' reads both CSVs and draws insights from the data.
-‘Presentation Results - Helsinki City Bikes.pdf’ contains data visuals summarising the insights.
+Notebook - Helsinki City Bikes.ipynb reads both CSVs and draws insights from the data.
+Presentation Results - Helsinki City Bikes.pdf contains data visuals summarising the insights.
 
 ### Summary
 Converted both CSV files into usable pandas dataframes.
