@@ -1,6 +1,7 @@
 # Mid-Bootcamp-Project-Helsinki
 ### Purpose
 This project is a descriptive analysis of the Helsinki City Bikes system in Finland.
+The modeling part still needs to be finished.
 
 ### Source data
 https://www.kaggle.com/datasets/geometrein/helsinki-city-bikes - > 10 million trips made between 2016-2020.
